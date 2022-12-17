@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**LI-ANYU/LI-ANYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# LI-ANYU.github.io
+### Hi there 👋
 
-Here are some ideas to get you started:
+ 🤓 I'm Anyu Li, a Phd Student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 
+ 
+ And I love fruit very much. 🍎 🍓 🥭 🥝
+ 
+ 
+ 
+ 
+ ![LI-ANYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=LI-ANYU&show_icons=true&theme=tokyonight)
+
+
+
+
+### Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/LI_ANYU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anyu-li-a973a3225/)
+n fact: ...
 -->
