@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # LI-ANYU.github.io
 ### Hi there 👋
 
