@@ -19,5 +19,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://li-anyu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anyu-li-a973a3225/)
-n fact: ...
+
 -->
