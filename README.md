@@ -1,7 +1,7 @@
 # LI-ANYU.github.io
 ### Hi there 👋
 
- 🤓 I'm Anyu Li.
+ 🤓 I'm Anyu Li, work on Geophysics.
 
  I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 
  
