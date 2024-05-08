@@ -1,7 +1,7 @@
 # LI-ANYU.github.io
 ### Hi there 👋
 
- 🤓 I'm Anyu Li, a Phd Student.
+ 🤓 I'm Anyu Li.
 
  I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 
  
